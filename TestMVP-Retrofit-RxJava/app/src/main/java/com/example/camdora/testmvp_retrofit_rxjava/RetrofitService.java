@@ -1,8 +1,7 @@
 package com.example.camdora.testmvp_retrofit_rxjava;
 
-import com.example.camdora.testmvp_retrofit_rxjava.model.Book;
+import com.example.camdora.testmvp_retrofit_rxjava.book.bean.Book;
 
-import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
 import rx.Observable;

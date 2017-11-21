@@ -1,4 +1,4 @@
-package com.example.camdora.testmvp_retrofit_rxjava.model;
+package com.example.camdora.testmvp_retrofit_rxjava.book.bean;
 
 import java.util.List;
 
